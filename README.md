@@ -55,4 +55,4 @@ Test, for fun only, don't deploy :smille:
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
+* [Program With Erik](http://www.programwitherik.com/)
