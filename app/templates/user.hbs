@@ -1,0 +1,9 @@
+{{#each pictures as |info|}}
+  {{#if info}}
+    {{#light-box href=info.url data-lightbox=info.title data-title=info.title inlineImage=false}}
+      <div class="img">
+        <img src="{{info.thumbnail}}" width="100" height="100" >
+      </div>
+    {{/light-box}}
+  {{/if}}
+{{/each}}
