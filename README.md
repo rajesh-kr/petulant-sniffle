@@ -1,7 +1,10 @@
 # Flickr-example
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+I have been learning Ember-CLI and created this project.
+This is inspired and mostly copied from [http://www.programwitherik.com/](http://www.programwitherik.com/).
+The [link](http://www.programwitherik.com/an-ember-js-example-app-using-reddit/) to actual tutorial is [here](http://www.programwitherik.com/an-ember-js-example-app-using-reddit/)
+In the tutorial, Erik has used reddit, and i am using flickr for the same purpose. Else everything is same as the tutorial.
+For a better explanation, please visit Erik's tutorial page.
 
 ## Prerequisites
 
@@ -12,6 +15,8 @@ You will need the following things properly installed on your computer.
 * [Bower](http://bower.io/)
 * [Ember CLI](http://www.ember-cli.com/)
 * [PhantomJS](http://phantomjs.org/)
+
+Also, you need to replace `<flickr_api_key>` in `app/routes/user.js` with your api key
 
 ## Installation
 
@@ -41,7 +46,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+Test, for fun only, don't deploy :smille:
 
 ## Further Reading / Useful Links
 
